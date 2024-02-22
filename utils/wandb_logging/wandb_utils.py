@@ -11,7 +11,7 @@ from utils.datasets import LoadImagesAndLabels
 from utils.datasets import img2label_paths
 from utils.general import colorstr, xywh2xyxy, check_dataset
 
-# try:
+try:
     import wandb
     from wandb import init, finish
 except ImportError:
