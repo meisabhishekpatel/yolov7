@@ -7,19 +7,19 @@ nc: 15
 # class names
 names:
   [
+    "Blade",
+    "Scissors",
+    "Knife",
+    "SwissArmyKnife",
+    "CartonDrinks",
+    "SprayCans",
     "Baton",
     "Pliers",
     "Hammer",
-    "Scissors",
     "Wrench",
     "Gun",
     "Bullet",
     "Sprayer",
     "HandCuffs",
-    "Knife",
     "Lighter",
-    "blade",
-    "SwissArmyKnife",
-    "CartonDrinks",
-    "SprayCans",
   ]
