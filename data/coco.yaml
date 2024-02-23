@@ -1,5 +1,5 @@
 train: ./data/train
-val: ./data/test
+val: ./data/eval
 
 # number of classes
 nc: 15
