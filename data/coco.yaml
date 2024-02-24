@@ -1,5 +1,5 @@
 train: /kaggle/working/data/train
-val: /kaggle/working/data/eval
+val: /kaggle/working/data/test
 
 # number of classes
 nc: 15
